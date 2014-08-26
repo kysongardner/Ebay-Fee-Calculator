@@ -13,7 +13,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+Ebay/bin*
+Ebay/obj*
 # =========================
 # Operating System Files
 # =========================
